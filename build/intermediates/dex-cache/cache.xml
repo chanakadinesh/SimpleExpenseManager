@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Chanaka\Desktop\mini_original\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Chanaka\Desktop\mini_original\SimpleExpenseManager\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-5bcd113ffcf1d013d534aefd51eb10e90126ec59.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chanaka\Desktop\mini_original\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Chanaka\Desktop\mini_original\SimpleExpenseManager\app\build\intermediates\pre-dexed\debug\classes-1925ac26af5759c7a598f96eda282f7c190c5b00.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chanaka\Desktop\mini_original\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\Chanaka\Desktop\mini_original\SimpleExpenseManager\app\build\intermediates\pre-dexed\debug\classes-10cdcaa93d3215197597fc54f3bdae9662f7014f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chanaka\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Chanaka\Desktop\mini_original\SimpleExpenseManager\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-fb7862e91fcf058e0ac12451175fe1b18c1db31e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chanaka\Desktop\mini_original\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Chanaka\Desktop\mini_original\SimpleExpenseManager\app\build\intermediates\pre-dexed\debug\classes-e75e881e30e7d8ca39a1f43cec4e80c45c957456.jar" />
+    </item>
+    <item
+        jar="C:\Users\Chanaka\Desktop\mini_original\SimpleExpenseManager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Chanaka\Desktop\mini_original\SimpleExpenseManager\app\build\intermediates\pre-dexed\debug\classes-6fb918dcf326d9e3652ecca79f85781224b5fa57.jar" />
+    </item>
+
+</items>
